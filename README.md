@@ -1,4 +1,4 @@
-### Hi there, I'm Nehoray - aka [NE_DEv2][website] 👋
+### Hi there, I'm Nehoray - [NE_DEv2][] 👋
 
 ## I'm, Developer
 - 🔭 I’m currently working on a [VS Code Course][website]!
