@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Nehoray - aka [NE_DEv2][website] 👋
 
 ## I'm, Developer
 - 🔭 I’m currently working on a [VS Code Course][website]!
