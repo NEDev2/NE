@@ -3,7 +3,7 @@
 ## I'm, Developer
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developer to make some awsome projects
 - 🥅 2020 Goals: Make My Life More Easier With Python...
 - ⚡ Fun fact: I love to play FPS Games And Write Code
 
